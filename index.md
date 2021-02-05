@@ -5,8 +5,6 @@
 - [MacOS](https://github.com/strainger/PhasmoFriend/raw/1.07/Builds/Desktop/MacOS/PhasmoFriend_MacOS_V1.06.dmg)
 - [Linux](https://github.com/strainger/PhasmoFriend/raw/1.07/Builds/Desktop/Linux/PhasmoFriend_Linux_V1.07.x86.zip)
 
-![PhasmoFriend Header](Images/Header.png)
-
 # Using PhasmoFriend
 
 ## Select a difficulty level
@@ -56,3 +54,5 @@ Press the 'Show Notes' button to display the current notes. These notes can be u
 - This application was made in Godot, if you would like to build this application and not rely on my exports, this can easily be done by loading the project into godot and running it.
 - I will release official versions of this app for FREE on the Apple App Store once I can put money aside to do so.
 - I appreciate you all and I hope you enjoy PhasmoFriend.
+
+![PhasmoFriend Header](Images/Header.png)
