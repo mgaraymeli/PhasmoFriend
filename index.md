@@ -2,12 +2,6 @@
 
 ![PhasmoFriend Header](Images/Header.png)
 
-An Open Source Phasmophobia Companion App for Desktop and Mobile Devices.
-
-## Installation
-
-Go into the BUILD folder and find the correct build for your system (Mac/Linux/Windows) and download the exported files. It may be a compressed zip, several files, you'll need all files in your build folder. Save these files onto your device in a dedicated folder.
-
 ## How to Download?
 
 - [Android](https://play.google.com/store/apps/details?id=org.straingersoftware.phasmofriend)
@@ -15,7 +9,7 @@ Go into the BUILD folder and find the correct build for your system (Mac/Linux/W
 - [MacOS](https://github.com/strainger/PhasmoFriend/raw/1.07/Builds/Desktop/MacOS/PhasmoFriend_MacOS_V1.06.dmg)
 - [Linux](https://github.com/strainger/PhasmoFriend/raw/1.07/Builds/Desktop/Linux/PhasmoFriend_Linux_V1.07.x86.zip)
 
-## Basic Instruction
+## Using PhasmoFriend
 
 ### Select a difficulty level
 
