@@ -1,3 +1,5 @@
-remote_theme: mmistakes/minimal-mistakes
-
 theme: jekyll-theme-minimal
+title: PhasmoFriend
+description: An Open Source Phasmophobia Companion App for Desktop and Mobile Devices.
+logo: Images/mobile.png
+show_downloads: "true"
