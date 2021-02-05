@@ -1,6 +1,1 @@
 remote_theme: mmistakes/minimal-mistakes
-header_pages:
-  - index.md
-style: dark
-listen_for_clients_preferred_style: true
-title: PhasmoFriend
