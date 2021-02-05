@@ -5,6 +5,8 @@
 - [MacOS](https://github.com/strainger/PhasmoFriend/raw/1.07/Builds/Desktop/MacOS/PhasmoFriend_MacOS_V1.06.dmg)
 - [Linux](https://github.com/strainger/PhasmoFriend/raw/1.07/Builds/Desktop/Linux/PhasmoFriend_Linux_V1.07.x86.zip)
 
+<meta name="google-site-verification" content="8aojySNIQURd-dhMARxCzjEKBIooRsTz_0sEq3lAZo0" />
+
 # Using PhasmoFriend
 
 ## Select a difficulty level
