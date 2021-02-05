@@ -1,8 +1,10 @@
 # PhasmoFriend
 
+![PhasmoFriend Header](https://github.com/strainger/PhasmoFriend/blob/main/Images/Github/Header.png)
+
 An Open Source Phasmophobia Companion App for Desktop and Mobile Devices.
 
-![](https://github.com/strainger/PhasmoFriend/blob/main/Images/Github/Header.png)
+[![PhasmoFriend](https://github.com/strainger/PhasmoFriend/blob/main/Images/Mobile/04.png)](https://www.youtube.com/watch?v=1rMcxs86D6M "PhasmoFriend Example")
 
 ## Installation
 
