@@ -2,7 +2,7 @@
 
 An Open Source Phasmophobia Companion App for Desktop and Mobile Devices.
 
-![](./Images/Github/Header.png)
+![](https://github.com/strainger/PhasmoFriend/blob/main/Images/Github/Header.png)
 
 ## Installation
 
@@ -17,7 +17,7 @@ Go into the BUILD folder and find the correct build for your system (Mac/Linux/W
 
 ## Basic Instruction
 
-![](./Images/Github/PhasmoFriend_Example.gif)
+![](https://github.com/strainger/PhasmoFriend/blob/main/Images/Github/PhasmoFriend_Example.gif)
 
 ### Select a difficulty level
 
