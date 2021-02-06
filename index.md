@@ -1,4 +1,4 @@
-# About PhasmoFriend
+# The Open Source Phasmophobia Companion App
 ## How to Download?
 
 - [Android](https://play.google.com/store/apps/details?id=org.straingersoftware.phasmofriend)
