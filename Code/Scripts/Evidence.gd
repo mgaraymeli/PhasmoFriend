@@ -20,15 +20,6 @@ const number_to_evidence_name = {
 		32: "Spiritbox"
 }
 
-const index_to_evidence = {
-	0: fingerprints,
-	1: freezingtemps,
-	2: book,
-	3: emf,
-	4: orbs,
-	5: spiritbox
-}
-
 const ghosts = [
 	["Banshee", emf + freezingtemps + fingerprints], 
 	["Demon", freezingtemps + book + spiritbox],
