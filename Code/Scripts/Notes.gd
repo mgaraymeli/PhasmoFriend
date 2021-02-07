@@ -1,9 +1,6 @@
 extends Node
 var notes_shown = false
 
-func _ready():
-	pass
-
 func _on_Notes_Button_pressed():
 	if notes_shown == false:
 		notes_shown = true
