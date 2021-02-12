@@ -1,6 +1,6 @@
 # The Open Source Phasmophobia Companion App
 
-![PhasmoFriend Header](Images/phasmofriend.1.08.mp4)
+[![PhasmoFriend 1.08](https://www.youtube.com/watch?v=mi7KhBn0r0A/0.jpg)](https://www.youtube.com/watch?v=mi7KhBn0r0A)
 
 ## How to Download?
 
