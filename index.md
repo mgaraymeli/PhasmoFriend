@@ -1,4 +1,7 @@
 # The Open Source Phasmophobia Companion App
+
+![PhasmoFriend Header](Images/phasmofriend.1.08.mp4)
+
 ## How to Download?
 
 - [Android](https://play.google.com/store/apps/details?id=org.straingersoftware.phasmofriend)
