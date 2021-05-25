@@ -5,9 +5,9 @@
 ## How to Download?
 
 - [Android](https://play.google.com/store/apps/details?id=org.straingersoftware.phasmofriend)
-- [Windows](https://github.com/strainger/PhasmoFriend/raw/main/Builds/Desktop/Windows/PhasmoFriend_Windows_V1.08.zip)
+- [Windows](https://github.com/strainger/PhasmoFriend/raw/main/Builds/Desktop/Windows/PhasmoFriend_Windows_V1.09.zip)
 - [MacOS](https://github.com/strainger/PhasmoFriend/raw/main/Builds/Desktop/MacOS/PhasmoFriend_MacOS_V1.08.dmg)
-- [Linux](https://github.com/strainger/PhasmoFriend/raw/main/Builds/Desktop/Linux/PhasmoFriend_Linux_V1.08.x86.zip)
+- [Linux](https://github.com/strainger/PhasmoFriend/raw/main/Builds/Desktop/Linux/PhasmoFriend_Linux_V1.09.x86.zip)
 
 ## Using PhasmoFriend
 
